@@ -1,7 +1,3 @@
-Created by Codrops
+Created by Fab Lab Egypt 2016
 
-http://www.codrops.com
-
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-Read more here: http://tympanus.net/codrops/licensing/
+http://www.fablab-egypt..com
